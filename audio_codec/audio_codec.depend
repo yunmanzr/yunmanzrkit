@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1426491957 source:/home/ioa_audio/20150316audio_codec_CB_IDE/audio_codec/main.c
+	<stdio.h>
+	<strings.h>
+	<mpg123.h>
+	<sndfile.h>
+	<lame.h>
+
