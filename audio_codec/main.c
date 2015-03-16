@@ -19,7 +19,7 @@
 
 void usage()
 {
-	printf("Usage: mpg123_to_wav <input> <output> [s16|f32 [ <buffersize>]]\n");
+	printf("it's git Usage: mpg123_to_wav <input> <output> [s16|f32 [ <buffersize>]]\n");
 	exit(99);
 }
 
